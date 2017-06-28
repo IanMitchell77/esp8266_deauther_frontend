@@ -3,6 +3,7 @@
 This is a new user friendly frontend based on esp8266_deauther.
 
 ## Feature/task list:
+1. [ ] Be user friendly and intuitive so help isnt required.
 1. [ ] Have list of known users - save to EEPROM.
 2. [ ] Assign MAC address to known users - save to EEPROM.
 3. [ ] Have button to deauthenticate known users wifi connections.
